@@ -134,8 +134,8 @@ Project Roles and Responsibilities
 
 UI Component Patterns
     Components to Create:
+    
         Navbar:
-            
             Displays navigation links for key pages.
             Includes a search bar for quick property searches.
             
