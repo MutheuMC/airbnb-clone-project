@@ -1,5 +1,7 @@
 AirBnB Clone Booking and Management System
+
 Overview
+
 This project aims to develop a simplified AirBnB clone, focusing on creating a practical booking and management system with a clean and user-friendly interface. The goal is to gain hands-on experience in designing, building, and deploying a modern web application.
 
 Project Goals 🎯
