@@ -40,22 +40,26 @@ A user-friendly design enhances accessibility and ensures a seamless experience,
 
 
 Color Styles and Typography
-Color Styles
-Primary: #1D4ED8 (Blue)
-Secondary: #6B7280 (Gray)
-Accent: #F59E0B (Orange)
-Background: #F3F4F6 (Light Gray)
-Text: #111827 (Dark Gray)
+    Color Styles
+
+    Primary: #34967c 
+    Secondary: #FFA800 
+    Accent: #F59E0B 
+    Background:#222222
+    Text: #161117 , #929292 #FFFFFF 
+
 Typography
-Font Family: Inter, Roboto, Arial
-Font Weights:
-Light: 300
-Regular: 400
-Bold: 700
-Font Sizes:
-Title: 24px
-Subtitle: 18px
-Body: 14px
+
+    Font Family: Quicksand
+    Font Weight:500 700
+    Light: 300
+    Regular: 400
+    Bold: 700
+    Font Sizes:23px 20px 31px
+    line-height: 35px
+    Title: 24px
+    Subtitle: 18px
+    Body: 14px
 
 Importance of Identifying Design Properties
 
@@ -129,15 +133,17 @@ Project Roles and Responsibilities
     Ensure continuous improvement within the team.
 
 UI Component Patterns
-Components to Create:
-    Navbar:
-    Displays navigation links for key pages.
-    Includes a search bar for quick property searches.
-    Hero Section:
-    for the landing page
-    Property Card:
-    Showcases property details such as image, title, price, and a short description.
-    Contains a link to the detailed view of the property.
-    Footer:
-    Includes copyright information, navigation links,company logo and contact details.
-    By organizing UI components into reusable patterns, development becomes faster, and design consistency improves across the         application.
+    Components to Create:
+        Navbar:
+            
+            Displays navigation links for key pages.
+            Includes a search bar for quick property searches.
+            
+        Hero Section:
+            for the landing page
+        Property Card:
+            Showcases property details such as image, title, price, and a short description.
+            Contains a link to the detailed view of the property.
+        Footer:
+            Includes copyright information, navigation links,company logo and contact details.
+            By organizing UI components into reusable patterns, development becomes faster, and design consistency improves across the         application.
