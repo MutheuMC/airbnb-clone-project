@@ -59,12 +59,16 @@ In booking systems, clarity and ease of navigation are essential for trust and e
 
 Color Styles and Typography
     Color Styles
-
-    Primary: #34967c 
-    Secondary: #FFA800 
-    Accent: #F59E0B 
-    Background:#222222
-    Text: #161117 , #929292 #FFFFFF 
+    
+     Primary Color	#0F4E3D	Primary buttons, links
+    Secondary Color	#616161	Headers and accents
+    White	#FFFFFF	Backgrounds and text
+    Dark Gray	#222222	Secondary text
+    Light Gray	#BEBEBE	Borders, subtle accents
+    Lighter Gray	#E9E9E9	Background highlights
+    Black	#000000	Main text, strong accents
+    Very Light Gray	#F6F6F6	Subtle backgrounds
+    Extra Light Gray	#FDFDFD	Clean backgrounds
 
 Typography
 
